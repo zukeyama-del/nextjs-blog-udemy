@@ -1,7 +1,7 @@
 // /pages/posts/[id].jsページを作成。
 //必要なもの(reactコンポーネント、getStaticPaths, getStaticProps)
 
-import Layout from "../../components/layout";
+import Layout from "../../components/Layout";
 
 
 import Head from "next/head";
